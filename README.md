@@ -74,7 +74,3 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 ## Link 
 <a href="https://github.com/JustinBugarin/React-Challenge-React-Portfolio/">Git Hub React Portfolio</a>
-
-## Usage 
-
-To create a portfolio, using React. The user can review and About Me section, a sample Portfolio, a contact form, and be able to download the Resume.
