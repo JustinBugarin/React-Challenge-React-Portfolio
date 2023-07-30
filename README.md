@@ -68,9 +68,9 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 ## Screenshots 
 
 
-![An example blog:](./react-portfolio/src/assets/images/homepEX.PNG)
-![An example blog:](./react-portfolio/src/assets/images/aboutEX.PNG)
-![An example blog:](./react-portfolio/src/assets/images/contactEX.PNG)
+![An Home EX:](./react-portfolio/src/assets/images/homepEX.PNG)
+![An About EX:](./react-portfolio/src/assets/images/aboutEX.PNG)
+![An Contact EX:](./react-portfolio/src/assets/images/contactEX.PNG)
 
 ## Link 
-<a href="https://github.com/JustinBugarin/React-Challenge-React-Portfolio/">Git Hub React Portfolio</a>
+<a href="https://justinbugarin.github.io/React-Challenge-React-Portfolio/">Git Hub React Portfolio</a>
